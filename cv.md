@@ -1,5 +1,6 @@
 ## Personal Information
-# Elena Kuznetsova
+![a photo](images/1578893233291.jpg)   
+# Elena Kuznetsova  
 * __Date of birth:__ 24 th of October 1976
 * __Address:__ Krasnodar, Russia
 * __Phone number:__ + 7 988 380 9482
