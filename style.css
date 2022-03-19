@@ -1,0 +1,12 @@
+.center {
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.wrapper.line {
+    background-color: rgb(73, 138, 116);
+    color: white;
+}
+.wrapper {
+    margin-bottom: 30px;
+}
